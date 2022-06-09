@@ -5,7 +5,7 @@ Question 1
 Grant all privilege to user which name Ali.
 #### Answer:
 ```
-GRANT ALL PREVILEGES ON * .* TO 'Ali' @ ' localhost' ;
+GRANT ALL PREVILEGES ON *.* TO 'Ali' @ ' localhost' ;
 ```
 
 Question 2
