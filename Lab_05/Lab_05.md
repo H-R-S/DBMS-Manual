@@ -7,8 +7,11 @@ Consider the following schema:
 4.	Order_Item (order_code, prod_code, num_of_units)
 
 I.	Develop DDL of in SQL
+
 II.	Add Column contact in Customer Table
+
 III.Add Column company_name in Product Table
+
 #### Query:
 ```
 CREATE DATABASE Lab_05
