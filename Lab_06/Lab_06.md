@@ -27,4 +27,4 @@ VALUES (1, 'Ben hur', 2016, 'Thmos'),
        (4, 'Batman V/S Super Man', 2015, 'Gerald Hond');
 ```
 ### Output ScreenShots:
-![Movie Table]()
+![Movie Table](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_06/ScreenShots/movie_table.PNG)
