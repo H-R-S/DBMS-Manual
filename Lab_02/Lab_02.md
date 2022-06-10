@@ -16,6 +16,7 @@ Head of Departments
 Teachers
 Principal
 Administrative Staff
+
 2. Entity Attributes:
 Students (Student_ID, Name, Phone_no, Address)
 Departments (Department_ID, Name, E-mail)
@@ -23,10 +24,12 @@ Head of Departments (Name, E-mail)
 Teachers(Teacher_ID, Name, Phone_no, Experience)
 Principal (Name, Phone_no)
 Administrative Staff (Name, Phone_no)
+
 3. Primary Key:
 Student_Id
 Department_ID
 Teacher-ID
+
 4. Relationship between Entities:
 The relationship between Student and Department is Many to Many.
 The relationship between the Department and Head of Department is Manyto Many.
@@ -37,7 +40,8 @@ The relationship between Administrative Staff and Principal is One to One.
 
 5. ERD:
 ```
-![ERD]()
+![ERD](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_02/ScreenShots/q1.PNG)
+
 
 ### Question 2
 1.	a professor teaches zero, one or many classes and a class is taught by one professor
@@ -47,12 +51,12 @@ The relationship between Administrative Staff and Principal is One to One.
 ```
 1. A professor teaches zero, one or many classes and a class is taught by one professor
 ```
-![Q1]()
+![Q1](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_02/ScreenShots/q2_a.PNG)
 ```
 2. A course may generate zero, one or many classes and a class comes from one course
 ```
-![Q2]()
+![Q2](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_02/ScreenShots/q2_b.PNG)
 ```
 3. A class is held in one room but a room has many classes
 ```
-![Q3]()
+![Q3](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_02/ScreenShots/q2_c.PNG)
