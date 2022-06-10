@@ -52,13 +52,13 @@ SELECT * FROM Employee;
 
 ```
 ### Output ScreenShots:
-#### Q1
+#### Question: 01
 ![Q1](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_08/ScreenShots/q1.PNG)
-#### Q2
+#### Question: 02
 ![Q2](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_08/ScreenShots/q2.PNG)
-#### Q3
+#### Question: 03
 ![Q3](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_08/ScreenShots/q3.PNG)
-#### Q4
+#### Question: 04
 ![Q4](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_08/ScreenShots/q4.PNG)
-#### Q5
+#### Question: 05
 ![Q5](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_08/ScreenShots/q5.PNG)
