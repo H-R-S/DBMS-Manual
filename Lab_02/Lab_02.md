@@ -1,4 +1,4 @@
-## [Lab: 02]()
+## [Lab-02](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_02/Lab_02.md)
 ### Question 1
 Modern School of higher education has around 2000 students and three departments. The students belong to various departments in the school. Every department has a Head of Department along with teachers. The head of department manages his departmental teachers and the students belonging to his department. The head of department also teaches the students. All the head of departments report to the principal of the school. The principal manages the departments and also teaches the students. Handling the administrative staff of the school is also the responsibility of the principal. Every individual, except the students, are the employees of the school
 Problem
