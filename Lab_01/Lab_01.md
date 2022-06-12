@@ -1,4 +1,4 @@
-## [Lab: 01]()
+## [Lab-01](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_01/Lab_01.md)
 Question: 01
 What are the disadvantages of file processing system?
 
