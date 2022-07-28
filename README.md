@@ -1,4 +1,5 @@
 # Database Management System Manual (Solved)
+### DBMS Quiz (Solved): [DBMS_Quiz](https://github.com/H-R-S/DBMS-Quiz/blob/main/README.md)
 ## Index:
 - ### [Lab-01](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_01/Lab_01.md)
 - ### [Lab-02](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_02/Lab_02.md)
@@ -13,7 +14,7 @@
 - ### [Lab-11](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_11/Lab_11.md)
 - ### [Lab-12](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_12/Lab_12.md)
 
-## DBMS-Manual WordFile (with ScreenShots) : [DBMS_Manual_Solved.docs]()
+## DBMS-Manual WordFile (with ScreenShots) : [DBMS_Manual_Solved.docs](https://github.com/H-R-S/DBMS-Manual/blob/main/wordFile/DBMS_Manual_Solved.docx)
 
 ___
 ## [Lab-01](https://github.com/H-R-S/DBMS-Manual/blob/main/Lab_01/Lab_01.md)
